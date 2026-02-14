@@ -5,14 +5,39 @@
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
 
 
+#### 推广
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 飞兔云      | [飞兔云官网](https://xn--9kq10e0y7h.com/index.html?register=RHChLxSc)       | ✈付费机场  |
+| GW云洞      | [官网](https://top.gw-yd.net/#/register?code=JtMtCR8Z)       | ✈付费机场  |
+| 搜索群1⃣      | [@qwzysso](https://t.me/qwzysso)       | 可以在里面搜索你想要的一切 |
+| 搜索群2⃣      | [@sosocn20w](https://t.me/sosocn20w)     | 可以在里面搜索你想要的一切 |
+
 #### TG中文群组索引机器人bot
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| SOSO群组机器人      | [@soso](https://t.me/soso?start=a_7494570063)     | Telegram上最强⚡️的搜索机器人🔍，是发送关键词，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| SOSO群组机器人      | [@soso](https://t.me/soso?start=a_8563885218)     | Telegram上最强⚡️的搜索机器人🔍，是发送关键词，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
 | 极搜群组机器人      | [@jisou](https://t.me/jisou?start=a_7494570063)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
 | TGX-频道秘书      | [@zh_secretary_bot](https://t.me/zh_secretary_bot)       | TGX-索引公告板 @zh_secretary 的群组频道登记机器人，优点：和【TGCN-群组索引计划】差不多，又有可以看群组频道推荐的地方了，缺点：不能通过关键词查找  |
 | 群组频道导航机器人   | [@qunzudaquan_bot](https://t.me/qunzudaquan_bot)        | 添加 @qunzudaquan_bot 到你的群组自动收录，私聊发送你的群组频道公开链接到：@qunzudaquan_bot，未收录或更新资料发送/update      |
 | 群组索引计划      | [@zh_groups_bot](https://t.me/zh_groups_bot)       | 收录群组的，本来有个非常好用的推荐频道，可惜目前因有人滥用已停用频道推荐功能。  |
+
+#### Telegram电报官方
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| Spam Info Bot      | [@SpamBot](https://t.me/SpamBot)       | Telegram账号问题处理，账号申诉  |
+| BotFather      | [@BotFather](https://t.me/BotFather)       | 创建机器人，管理机器人  |
+| Stickers      | [@Stickers](https://t.me/Stickers)       | 创建贴纸包，管理贴纸  |
+| Telegraph      | [@Telegraph](https://t.me/Telegraph)       | 创建并管理Telegraph文章  |
+| Premium Bot      | [@PremiumBot](https://t.me/PremiumBot)       | Telegram会员官方购买机器人  |
+| Wallet      | [@wallet](https://t.me/wallet)       | Telegram官方钱包机器人  |
+| Previews      | [@previews](https://t.me/previews)       | Telegram即时预览反馈机器人  |
+| MTProxy Admin Bot      | [@MTProxybot](https://t.me/MTProxybot)       | 创建并管理Telegram MTProxy  |
+| Transparency Reports      | [@transparency](https://t.me/transparency)       | Telegram向政府透露的数据统计  |
+| Webpage Bot      | [@WebpageBot](https://t.me/WebpageBot)       | 链接预览更新机器人  |
+| Verify Bot      | [@VerifyBot](https://t.me/VerifyBot)       | 认证你的Telegram频道、群组和机器人  |
+| Username Bot      | [@username_bot](https://t.me/username_bot)       | 通过权威认证获取被占用的用户名  |
+| Fragment Auction Alerts      | [@fragment](https://t.me/fragment)       | Fragment拍卖通知机器人  |
 
 #### 看剧资源搜索机器人
 | 名字     | 链接 | 功能描述     |
@@ -37,6 +62,46 @@
 | Telegram 抽奖助手      | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 抽奖助手  |
 | Telegram 抽奖活动导航 | [@Lottery_home](https://t.me/Lottery_home) | 想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。 |
 
+#### 群组管理机器人
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| Group Help      | [@GroupHelpBot](https://t.me/GroupHelpBot)       | 轻松管理你的群组  |
+| More useful bots for group owners      | [@GroupOwnerBot](https://t.me/GroupOwnerBot)       | More useful bots for group owners  |
+| Rose      | [@MissRose_bot](https://t.me/MissRose_bot)       | 实用的Telegram群组管理机器人  |
+| KinhRoBot      | [@KinhRoBot](https://t.me/KinhRoBot)       | 超多功能的群管机器人  |
+| 呆呆兽      | [@KeDuckBot](https://t.me/KeDuckBot)       | 呆呆兽群管机器人  |
+| 方丈机器人      | [@fangzhang_bot](https://t.me/fangzhang_bot)       | 方丈群组管理机器人  |
+| 阿福      | [@afoolrobot](https://t.me/afoolrobot)       | 阿福支持克隆，自动回复，广告过滤等  |
+| 文件与链接检测      | [@drwebbot](https://t.me/drwebbot)       | Dr.Web（大蜘蛛）公司推出了一个实验性的 Telegram Bot，它可以检查网页链接和文件，并在包含威胁时发出警告。单文件限制20M（Aquamarine）  |
+| 群组清理大师      | [@GroupCleanupMasterBot](https://t.me/GroupCleanupMasterBot)       | 群组清理大师智能清除广告  |
+| 删除含有黑名单词的发言   | [@grep_robot](https://t.me/grep_robot)        | 删除含有黑名单词的发言      |
+| 广告杀手      | [@LookOnbot](https://t.me/LookOnbot)       | 广告杀手,只需要删除消息即可协助群管理清除广告,另有众多实用功能,包括禁止关联频道置顶,封杀病毒文件等  |
+| 广告链接拦截      | [@ProtectronBot](https://t.me/ProtectronBot)       | 删除广告链接,短链接,转发,进出群消息,设置关键字黑名单,禁止刷屏,删除色情图片等,误杀比较多.  |
+| 发言频率限制   | [@freqrobot](https://t.me/freqrobot)        | 限制群员发言频率      |
+| 广告终结者      | [@adzhongjiezhe_bot](https://t.me/adzhongjiezhe_bot)       | 广告终结者,通过设置关键字来删除违规消息  |
+| 禁止关联频道置顶      | [@DiscussUnpinBot](https://t.me/DiscussUnpinBot)       | 禁止关联频道群置顶  |
+| 自动删除exe、scr、com、cpl后缀的文件   | [@noexebot](https://t.me/noexebot)        | 自动删除exe、scr、com、cpl后缀的文件      |
+| 删除进群24小时新人转发,图片等信息      | [@daysandbox_bot](https://t.me/daysandbox_bot)       | 删除进群24小时新人转发,图片等信息  |
+| 删除特定类型的信息   | [@watchdog_robot](https://t.me/watchdog_robot)        | 删除特定类型的信息,例如链接,贴纸,图片,语音信息,文件等等      |
+| 删除阿拉伯语和波斯语信息      | [@noarab_bot](https://t.me/noarab_bot)       | 删除阿拉伯语和波斯语信息  |
+| 删除指定语言的信息      | [@lang_blocker_bot](https://t.me/lang_blocker_bot)       | 删除指定语言的信息  |
+| 禁止群聊天   | [@HushRobot](https://t.me/HushRobot)        | 禁止群聊天      |
+| 删除进群退群提示信息      | [@joinhider_bot](https://t.me/joinhider_bot)       | 删除进群退群提示信息  |
+| 删除欢迎信息      | [@nohello_robot](https://t.me/nohello_robot)       | 删除欢迎信息  |
+| 统计群组发言数   | [@jung2_bot](https://t.me/jung2_bot)        | 统计群组中用户的发言数      |
+| 统计秘书      | [@FengStatsBot](https://t.me/FengStatsBot)       | 统计秘书,本秘书做群中各种统计，发言次数等  |
+| 管理通知      | [@MasterTagAlertBot](https://t.me/MasterTagAlertBot)       | 管理通知  |
+| 群组管理      | [http://teleme.io](http://teleme.io)       | TeleMe 是一款功能强大又方便好用的 Telegram 社群管理 Bot 机器人,收费,有免费额度  |
+| Telegram Watchdog      | [@WatchdogVerifyBot](https://t.me/WatchdogVerifyBot)       | 看门狗机器人，提供入群验证  |
+| 反频道马甲Bot      | [@AntiChannelSpammersBot](https://t.me/AntiChannelSpammersBot)       | 自动删除群成员以频道身份发送的消息  |
+| NoAdsBot      | [@autodeletead_bot](https://t.me/autodeletead_bot)       | 自动删除群组中的广告消息  |
+| 查特皮皮鸡      | [@ZUOLUOTV_AI_BOT](https://t.me/ZUOLUOTV_AI_BOT)       | 基于OpenAI和Google Cloud AI Platform的反垃圾机器人  |
+| We Group Bot      | [@WeGroupRobot](https://t.me/WeGroupRobot)       | 多功能的群组管理机器人  |
+| CaptchatBot      | [@Captchat_Bot](https://t.me/Captchat_Bot)       | 新成员验证码机器人，避免广告骚扰  |
+| The Join Captcha Bot      | [@join_captcha_bot](https://t.me/join_captcha_bot)       | 入群验证机器人  |
+| Approve By Poll      | [@KimmyXYC_Approve_By_Poll_bot](https://t.me/KimmyXYC_Approve_By_Poll_bot)       | 通过投票决定是否同意新成员的入群申请  |
+| Cleaning Toolbox      | [@CleaningToolboxBot](https://t.me/CleaningToolboxBot)       | 自动踢出所有群组成员  |
+
 #### 协助管理群组机器人验证
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
@@ -55,6 +120,7 @@
 | 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
 | LittleGuardian   | [@littleGuardianBot](https://t.me/littleGuardianBot)        |    定时广播,分析群数据机器人，让你更好的掌握你的群聊信息情况   |
 | TYPCN NLP Analysis   | [@TYPCN NLP Analysis](https://t.me/typcn_soliloquize_bot)        |    同样也是群组数据分析机器人，让你更好的掌握你群的活跃情况 |
+
 #### 欢迎
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
@@ -111,37 +177,14 @@
 | 删除阿拉伯文消息      | [@AntiArabicScriptBot](https://t.me/AntiArabicScriptBot)       | removes all messages which contain arabic script  |
 | 保护群组防止垃圾信息      | [@SpamMeNotBot](https://t.me/SpamMeNotBot)       | protects your group from spam/flood attacks  |
 | 删除含命令消息   | [@AntiCommandBot](https://t.me/AntiCommandBot)        | removes all messages which contain a /command      |
-| More useful bots for group owners      | [@GroupOwnerBot](https://t.me/GroupOwnerBot)       | More useful bots for group owners  |
-| 文件与链接检测      | [@drwebbot](https://t.me/drwebbot)       | Dr.Web（大蜘蛛）公司推出了一个实验性的 Telegram Bot，它可以检查网页链接和文件，并在包含威胁时发出警告。单文件限制20M（Aquamarine）  |
-| 群组清理大师      | [@GroupCleanupMasterBot](https://t.me/GroupCleanupMasterBot)       | 群组清理大师智能清除广告  |
-| 删除含有黑名单词的发言   | [@grep_robot](https://t.me/grep_robot)        | 删除含有黑名单词的发言      |
-| 广告杀手      | [@LookOnbot](https://t.me/LookOnbot)       | 广告杀手,只需要删除消息即可协助群管理清除广告,另有众多实用功能,包括禁止关联频道置顶,封杀病毒文件等  |
-| 广告链接拦截      | [@ProtectronBot](https://t.me/ProtectronBot)       | 删除广告链接,短链接,转发,进出群消息,设置关键字黑名单,禁止刷屏,删除色情图片等,误杀比较多.  |
-| 发言频率限制   | [@freqrobot](https://t.me/freqrobot)        | 限制群员发言频率      |
-| 广告终结者      | [@adzhongjiezhe_bot](https://t.me/adzhongjiezhe_bot)       | 广告终结者,通过设置关键字来删除违规消息  |
-| 禁止关联频道置顶      | [@DiscussUnpinBot](https://t.me/DiscussUnpinBot)       | 禁止关联频道群置顶  |
-| 自动删除exe、scr、com、cpl后缀的文件   | [@noexebot](https://t.me/noexebot)        | 自动删除exe、scr、com、cpl后缀的文件      |
-| 删除进群24小时新人转发,图片等信息      | [@daysandbox_bot](https://t.me/daysandbox_bot)       | 删除进群24小时新人转发,图片等信息  |
-| 删除特定类型的信息   | [@watchdog_robot](https://t.me/watchdog_robot)        | 删除特定类型的信息,例如链接,贴纸,图片,语音信息,文件等等      |
-| 删除阿拉伯语和波斯语信息      | [@noarab_bot](https://t.me/noarab_bot)       | 删除阿拉伯语和波斯语信息  |
-| 删除指定语言的信息      | [@lang_blocker_bot](https://t.me/lang_blocker_bot)       | 删除指定语言的信息  |
-| 禁止群聊天   | [@HushRobot](https://t.me/HushRobot)        | 禁止群聊天      |
-| 删除进群退群提示信息      | [@joinhider_bot](https://t.me/joinhider_bot)       | 删除进群退群提示信息  |
-| 删除欢迎信息      | [@nohello_robot](https://t.me/nohello_robot)       | 删除欢迎信息  |
-| 统计群组发言数   | [@jung2_bot](https://t.me/jung2_bot)        | 统计群组中用户的发言数      |
-| 统计秘书      | [@FengStatsBot](https://t.me/FengStatsBot)       | 统计秘书,本秘书做群中各种统计，发言次数等  |
-| 管理通知      | [@MasterTagAlertBot](https://t.me/MasterTagAlertBot)       | 管理通知  |
 | URL转TG档案      | [@uploadbot](https://t.me/uploadbot)       | 神奇的普通URL網址轉TG檔案，单个文件限制500M,每天限制1GB。如果想更多空間可以買VIP  |
 | 提供工作机会      | [@jobs_bot](https://t.me/jobs_bot)       | telegram官方提供工作机会  |
 | 临时邮箱机器人      | [@sms24_me](https://t.me/sms24_me)       | 提供电话号码用于接收短信  |
-| 群组管理      | [http://teleme.io](http://teleme.io)       | TeleMe 是一款功能强大又方便好用的 Telegram 社群管理 Bot 机器人,收费,有免费额度  |
 | 搜索机器人      | [@SearcheeBot](https://t.me/SearcheeBot)       | TG频道搜索机器人  |
 | bot搜索   | [@BotListBot](https://t.me/BotListBot)        | bot搜索      |
 | 查找bot,频道,群,贴纸等      | [@ExploreTelegramBot](https://t.me/ExploreTelegramBot)       | 查找bot,频道,群,贴纸等  |
-| 群管bot      | [@GroupHelpBot](https://t.me/GroupHelpBot)       | 群管bot,除了常用的命令,还可以查看近期不活跃名单,设置关键字自动回复  |
 | 生成私聊机器人   | [@LimitatiBot](https://t.me/LimitatiBot)        | 生成私聊机器人      |
 | 给管理员发消息      | [@callAdminsBot](https://t.me/callAdminsBot)       | 给管理员发消息  |
 | 黑名单机器人      | [@hexlightning_bot](https://t.me/hexlightning_bot)       | 台灣人自己的黑名單機器人  |
 | APK下载机器人      | [@apkdl_bot](https://t.me/apkdl_bot)       | 下载最新版本的任何免费安卓应用和游戏  |
 | gif图片下载      | [@GIFDownloader_bot](https://t.me/GIFDownloader_bot)       | 直接发送GIF即可返回图片，保存相册即可 |
-| SpamBot       | [@SpamBot](https://t.me/SpamBot)       | 如何解除私聊双向，解封账号|
