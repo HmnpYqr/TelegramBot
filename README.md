@@ -7,20 +7,21 @@
 
 #### 推广
 | 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 飞兔云      | [飞兔云官网](https://xn--9kq10e0y7h.com/index.html?register=RHChLxSc)       | ✈付费机场  |
-| GW云洞      | [官网](https://top.gw-yd.net/#/register?code=JtMtCR8Z)       | ✈付费机场  |
-| 搜索群1⃣      | [@qwzysso](https://t.me/qwzysso)       | 可以在里面搜索你想要的一切 |
-| 搜索群2⃣      | [@sosocn20w](https://t.me/sosocn20w)     | 可以在里面搜索你想要的一切 |
+| :---     |    :----:   |          :--- |
+| 飞兔云        | [飞兔云官网](https://xn--9kq10e0y7h.com/index.html?register=RHChLxSc)        | ✈付费机场  |
+| GW云洞        | [官网](https://top.gw-yd.net/#/register?code=JtMtCR8Z)                      | ✈付费机场  |
+| 搜索群1⃣      | [@qwzysso](https://t.me/qwzysso)                                            | 可以在里面搜索你想要的一切 |
+| 搜索群2⃣      | [@sosocn20w](https://t.me/sosocn20w)                                        | 可以在里面搜索你想要的一切 |
 
 #### TG中文群组索引机器人bot
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| SOSO群组机器人      | [@soso](https://t.me/soso?start=a_8563885218)     | Telegram上最强⚡️的搜索机器人🔍，是发送关键词，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
-| 极搜群组机器人      | [@jisou](https://t.me/jisou?start=a_7494570063)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
-| TGX-频道秘书      | [@zh_secretary_bot](https://t.me/zh_secretary_bot)       | TGX-索引公告板 @zh_secretary 的群组频道登记机器人，优点：和【TGCN-群组索引计划】差不多，又有可以看群组频道推荐的地方了，缺点：不能通过关键词查找  |
-| 群组频道导航机器人   | [@qunzudaquan_bot](https://t.me/qunzudaquan_bot)        | 添加 @qunzudaquan_bot 到你的群组自动收录，私聊发送你的群组频道公开链接到：@qunzudaquan_bot，未收录或更新资料发送/update      |
-| 群组索引计划      | [@zh_groups_bot](https://t.me/zh_groups_bot)       | 收录群组的，本来有个非常好用的推荐频道，可惜目前因有人滥用已停用频道推荐功能。  |
+| 极搜群组机器人      | [@jisou](https://t.me/jisou?start=a_7494570063)      | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| SOSO群组机器人      | [@soso](https://t.me/soso?start=a_8563885218)       | Telegram上最强⚡️的搜索机器人🔍，是发送关键词，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| 神马搜索            | [@smss](https://t.me/smss?start=spread_7494570063)  | 必备中文搜索引擎，轻松搜索频道、群组、视频、信息等...  |
+| TGX-频道秘书        | [@zh_secretary_bot](https://t.me/zh_secretary_bot)  | TGX-索引公告板 @zh_secretary 的群组频道登记机器人，优点：和【TGCN-群组索引计划】差不多，又有可以看群组频道推荐的地方了，缺点：不能通过关键词查找  |
+| 群组频道导航机器人   | [@qunzudaquan_bot](https://t.me/qunzudaquan_bot)    | 添加 @qunzudaquan_bot 到你的群组自动收录，私聊发送你的群组频道公开链接到：@qunzudaquan_bot，未收录或更新资料发送/update      |
+| 群组索引计划        | [@zh_groups_bot](https://t.me/zh_groups_bot)        | 收录群组的，本来有个非常好用的推荐频道，可惜目前因有人滥用已停用频道推荐功能。  |
 
 #### Telegram电报官方
 | 名字     | 链接 | 功能描述     |
@@ -80,7 +81,6 @@
 | 发言频率限制   | [@freqrobot](https://t.me/freqrobot)        | 限制群员发言频率      |
 | 广告终结者      | [@adzhongjiezhe_bot](https://t.me/adzhongjiezhe_bot)       | 广告终结者,通过设置关键字来删除违规消息  |
 | 禁止关联频道置顶      | [@DiscussUnpinBot](https://t.me/DiscussUnpinBot)       | 禁止关联频道群置顶  |
-| 自动删除exe、scr、com、cpl后缀的文件   | [@noexebot](https://t.me/noexebot)        | 自动删除exe、scr、com、cpl后缀的文件      |
 | 删除进群24小时新人转发,图片等信息      | [@daysandbox_bot](https://t.me/daysandbox_bot)       | 删除进群24小时新人转发,图片等信息  |
 | 删除特定类型的信息   | [@watchdog_robot](https://t.me/watchdog_robot)        | 删除特定类型的信息,例如链接,贴纸,图片,语音信息,文件等等      |
 | 删除阿拉伯语和波斯语信息      | [@noarab_bot](https://t.me/noarab_bot)       | 删除阿拉伯语和波斯语信息  |
