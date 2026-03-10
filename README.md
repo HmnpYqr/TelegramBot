@@ -1,11 +1,31 @@
-### Telegram电报机器人推荐
+## Telegram电报机器人推荐
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
 
+<div id="top"></div>
 
-#### 推广
+### 目录
+- [Telegram电报机器人推荐](#telegram电报机器人推荐)
+  - [目录](#目录)
+  - [推广🔥🔥🔥](#推广)
+  - [TG中文搜索](#tg中文搜索)
+  - [Telegram电报官方](#telegram电报官方)
+  - [看剧资源](#看剧资源)
+  - [音乐和视频下载](#音乐和视频下载)
+  - [群组抽奖](#群组抽奖)
+  - [群组管理](#群组管理)
+  - [协助管理群组机器人验证](#协助管理群组机器人验证)
+  - [欢迎](#欢迎)
+  - [广告拦截](#广告拦截)
+  - [看门](#看门)
+  - [昵称](#昵称)
+  - [骂人](#骂人)
+  - [RSS订阅](#rss订阅)
+  - [其他](#其他)
+
+### 推广🔥🔥🔥
 | 名字     | 链接 | 功能描述     |
 | :---     |    :----:   |          :--- |
 | 飞兔云        | [飞兔云官网](https://xn--9kq10e0y7h.com/index.html?register=RHChLxSc)        | ✈付费机场  |
@@ -13,8 +33,9 @@
 | 搜索群1️⃣     | [@qcnso1](https://t.me/cnso1)                                            | 可以在里面搜索你想要的一切 |
 | 搜索群2️⃣     | [@qwzysso](https://t.me/qwzysso)                                            | 可以在里面搜索你想要的一切 |
 | 搜索群3️⃣     | [@sosocn20w](https://t.me/sosocn20w)                                        | 可以在里面搜索你想要的一切 |
+【↩ [返回目录](#top)】
 
-#### TG中文搜索机器人bot
+### TG中文搜索
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 极搜🔍资源搜索@JISOU      | [@jisou](https://t.me/jisou?start=a_7494570063)      | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
@@ -23,8 +44,9 @@
 | TGX-频道秘书        | [@zh_secretary_bot](https://t.me/zh_secretary_bot)  | TGX-索引公告板 @zh_secretary 的群组频道登记机器人，优点：和【TGCN-群组索引计划】差不多，又有可以看群组频道推荐的地方了，缺点：不能通过关键词查找  |
 | 群组频道导航机器人   | [@qunzudaquan_bot](https://t.me/qunzudaquan_bot)    | 添加 @qunzudaquan_bot 到你的群组自动收录，私聊发送你的群组频道公开链接到：@qunzudaquan_bot，未收录或更新资料发送/update      |
 | 群组索引计划        | [@zh_groups_bot](https://t.me/zh_groups_bot)        | 收录群组的，本来有个非常好用的推荐频道，可惜目前因有人滥用已停用频道推荐功能。  |
+【↩ [返回目录](#top)】
 
-#### Telegram电报官方
+### Telegram电报官方
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | Spam Info Bot      | [@SpamBot](https://t.me/SpamBot)       | Telegram账号问题处理，账号申诉  |
@@ -40,8 +62,9 @@
 | Verify Bot      | [@VerifyBot](https://t.me/VerifyBot)       | 认证你的Telegram频道、群组和机器人  |
 | Username Bot      | [@username_bot](https://t.me/username_bot)       | 通过权威认证获取被占用的用户名  |
 | Fragment Auction Alerts      | [@fragment](https://t.me/fragment)       | Fragment拍卖通知机器人  |
+【↩ [返回目录](#top)】
 
-#### 看剧资源搜索机器人
+### 看剧资源
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 阿里云盘搜索机器人      | [@aliyunshare_bot](https://t.me/aliyunshare_bot)     | 我是阿里云盘资源搜索机器人 汇聚全网最全资源  |
@@ -53,8 +76,16 @@
 | utubebot      | [@utubest_Bot](https://t.me/utubest_Bot)  |Youtube 视频免费下载机器人|
 | getmediabot      | [@getmediabot](https://t.me/getmediabot)  |音乐搜索下载|
 | VK Music Bot      | [@Vkmusic_bot](https://t.me/Vkmusic_bot)  |音乐搜索下载|
+【↩ [返回目录](#top)】
 
-#### 群组抽奖机器人
+### 音乐和视频下载
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| PicTubeBot | [@PicTubeBot](https://t.me/PicTubeBot) | YouTube 视频下载机器人，最高支持 4K/8K、60 FPS 和 HDR |
+| YouTube Downloader Music | [@YoutubeDoBot](https://t.me/YoutubeDoBot) | 可帮助查找 YouTube 视频和音乐，支持多语言 |
+【↩ [返回目录](#top)】
+
+### 群组抽奖
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 抽奖助手机器人      | [@tgLotteryBot](https://t.me/tgLotteryBot)       | 抽奖助手机器人  |
@@ -63,8 +94,9 @@
 | 抽奖机器人      | [@fengdrawbot](https://t.me/fengdrawbot)       | 抽奖机器人  |
 | Telegram 抽奖助手      | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 抽奖助手  |
 | Telegram 抽奖活动导航 | [@Lottery_home](https://t.me/Lottery_home) | 想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。 |
+【↩ [返回目录](#top)】
 
-#### 群组管理机器人
+### 群组管理
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | Group Help      | [@GroupHelpBot](https://t.me/GroupHelpBot)       | 轻松管理你的群组  |
@@ -102,8 +134,9 @@
 | The Join Captcha Bot      | [@join_captcha_bot](https://t.me/join_captcha_bot)       | 入群验证机器人  |
 | Approve By Poll      | [@KimmyXYC_Approve_By_Poll_bot](https://t.me/KimmyXYC_Approve_By_Poll_bot)       | 通过投票决定是否同意新成员的入群申请  |
 | Cleaning Toolbox      | [@CleaningToolboxBot](https://t.me/CleaningToolboxBot)       | 自动踢出所有群组成员  |
+【↩ [返回目录](#top)】
 
-#### 协助管理群组机器人验证
+### 协助管理群组机器人验证
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 验证机器人      | [@P4CaptchaBot](https://t.me/P4CaptchaBot)       | 验证机器人，四个汉字验证码  |
@@ -121,38 +154,44 @@
 | 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
 | LittleGuardian   | [@littleGuardianBot](https://t.me/littleGuardianBot)        |    定时广播,分析群数据机器人，让你更好的掌握你的群聊信息情况   |
 | TYPCN NLP Analysis   | [@TYPCN NLP Analysis](https://t.me/typcn_soliloquize_bot)        |    同样也是群组数据分析机器人，让你更好的掌握你群的活跃情况 |
+【↩ [返回目录](#top)】
 
-#### 欢迎
+### 欢迎
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 欢迎机器人      | [@RealApolloBot](https://t.me/RealApolloBot)       | 欢迎机器人  |
 | 欢迎机器人      | [@WTFisBot](https://t.me/WTFisBot)       | 欢迎机器人  |
 | 欢迎机器人   | [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot)        | 欢迎机器人      |
+【↩ [返回目录](#top)】
 
-#### 广告拦截
+### 广告拦截
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 长名广告专杀      | [@adnamekillerbot](https://t.me/adnamekillerbot)       | 长名广告专杀  |
 | 限制新群员      | [@AutoRestrictBot](https://t.me/AutoRestrictBot)       | 限制新群员  |
 | 删除进出群消息   | [@AntiServiceMessageBot](https://t.me/AntiServiceMessageBot)        | I remove join/leave messages in groups and supergroups.      |
+【↩ [返回目录](#top)】
 
-#### 看门
+### 看门
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 看门机器人      | [@WatchDoorBot](https://t.me/WatchDoorBot)       | 可禁止发送指定类型的信息,用于避免恶意举报 |
+【↩ [返回目录](#top)】
 
-#### 昵称
+### 昵称
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 忘记设置username提醒      | [@UNameBot](https://t.me/UNameBot)       | 在使用者忘記設定 username 時發送提醒訊息  |
 | 监控名字更改记录      | [@SangMata_BOT](https://t.me/SangMata_BOT)       | 放入群组可以监控群里用户名字更改记录  |
+【↩ [返回目录](#top)】
 
-#### 骂人
+### 骂人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 骂人机器人      | [@the_jbot](https://t.me/the_jbot)       | 骂人机器人  |
+【↩ [返回目录](#top)】
 
-#### RSS订阅机器人
+### RSS订阅
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | RSS屋   | [@RSSWBot](https://t.me/RSSWBot)        |提供全文RSS订阅源，还可以设置订阅关键字，具体可到他的官网查看   |
@@ -160,8 +199,9 @@
 | rssflowbot   | [@rssflowbot](https://t.me/rssflowbot)        |flowerss是一个支持应用内阅读的RSS机器人   |
 | EventsAggregatorBot   | [@EventsAggregatorBot](https://t.me/EventsAggregatorBot)        |外国bot，在Telegram中转发您最喜欢的Twitter、Instagram、RSS、Reddit、YouTube、Twitch账户  |
 | Feed Man Bot   | [@FeedManBot](https://t.me/FeedManBot)        |可以随时更新您的所有RSS订阅源，可以全文订阅，最多订阅50个youtube频道   |
+【↩ [返回目录](#top)】
 
-#### 其他有趣机器人
+### 其他
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 拿来吧你   | [@MediaSnagBot](https://t.me/MediaSnagBot)        | 破解群组/频道媒体转发限制，频道内容破解无限制      |
@@ -189,3 +229,4 @@
 | 黑名单机器人      | [@hexlightning_bot](https://t.me/hexlightning_bot)       | 台灣人自己的黑名單機器人  |
 | APK下载机器人      | [@apkdl_bot](https://t.me/apkdl_bot)       | 下载最新版本的任何免费安卓应用和游戏  |
 | gif图片下载      | [@GIFDownloader_bot](https://t.me/GIFDownloader_bot)       | 直接发送GIF即可返回图片，保存相册即可 |
+【↩ [返回目录](#top)】
