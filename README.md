@@ -4,8 +4,6 @@
 | :---        |    :----:   |          :--- |
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
 
-<div id="top"></div>
-
 ### 目录
 - [Telegram电报机器人推荐](#telegram电报机器人推荐)
   - [目录](#目录)
@@ -33,7 +31,6 @@
 | 搜索群1️⃣     | [@qcnso1](https://t.me/cnso1)                                            | 可以在里面搜索你想要的一切 |
 | 搜索群2️⃣     | [@qwzysso](https://t.me/qwzysso)                                            | 可以在里面搜索你想要的一切 |
 | 搜索群3️⃣     | [@sosocn20w](https://t.me/sosocn20w)                                        | 可以在里面搜索你想要的一切 |
-【↩ [返回目录](#top)】
 
 ### TG中文搜索
 | 名字     | 链接 | 功能描述     |
@@ -44,7 +41,7 @@
 | TGX-频道秘书        | [@zh_secretary_bot](https://t.me/zh_secretary_bot)  | TGX-索引公告板 @zh_secretary 的群组频道登记机器人，优点：和【TGCN-群组索引计划】差不多，又有可以看群组频道推荐的地方了，缺点：不能通过关键词查找  |
 | 群组频道导航机器人   | [@qunzudaquan_bot](https://t.me/qunzudaquan_bot)    | 添加 @qunzudaquan_bot 到你的群组自动收录，私聊发送你的群组频道公开链接到：@qunzudaquan_bot，未收录或更新资料发送/update      |
 | 群组索引计划        | [@zh_groups_bot](https://t.me/zh_groups_bot)        | 收录群组的，本来有个非常好用的推荐频道，可惜目前因有人滥用已停用频道推荐功能。  |
-【↩ [返回目录](#top)】
+ 
 
 ### Telegram电报官方
 | 名字     | 链接 | 功能描述     |
@@ -62,7 +59,7 @@
 | Verify Bot      | [@VerifyBot](https://t.me/VerifyBot)       | 认证你的Telegram频道、群组和机器人  |
 | Username Bot      | [@username_bot](https://t.me/username_bot)       | 通过权威认证获取被占用的用户名  |
 | Fragment Auction Alerts      | [@fragment](https://t.me/fragment)       | Fragment拍卖通知机器人  |
-【↩ [返回目录](#top)】
+ 
 
 ### 看剧资源
 | 名字     | 链接 | 功能描述     |
@@ -76,14 +73,14 @@
 | utubebot      | [@utubest_Bot](https://t.me/utubest_Bot)  |Youtube 视频免费下载机器人|
 | getmediabot      | [@getmediabot](https://t.me/getmediabot)  |音乐搜索下载|
 | VK Music Bot      | [@Vkmusic_bot](https://t.me/Vkmusic_bot)  |音乐搜索下载|
-【↩ [返回目录](#top)】
+ 
 
 ### 音乐和视频下载
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | PicTubeBot | [@PicTubeBot](https://t.me/PicTubeBot) | YouTube 视频下载机器人，最高支持 4K/8K、60 FPS 和 HDR |
 | YouTube Downloader Music | [@YoutubeDoBot](https://t.me/YoutubeDoBot) | 可帮助查找 YouTube 视频和音乐，支持多语言 |
-【↩ [返回目录](#top)】
+ 
 
 ### 群组抽奖
 | 名字     | 链接 | 功能描述     |
@@ -94,7 +91,7 @@
 | 抽奖机器人      | [@fengdrawbot](https://t.me/fengdrawbot)       | 抽奖机器人  |
 | Telegram 抽奖助手      | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 抽奖助手  |
 | Telegram 抽奖活动导航 | [@Lottery_home](https://t.me/Lottery_home) | 想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。 |
-【↩ [返回目录](#top)】
+ 
 
 ### 群组管理
 | 名字     | 链接 | 功能描述     |
@@ -134,7 +131,7 @@
 | The Join Captcha Bot      | [@join_captcha_bot](https://t.me/join_captcha_bot)       | 入群验证机器人  |
 | Approve By Poll      | [@KimmyXYC_Approve_By_Poll_bot](https://t.me/KimmyXYC_Approve_By_Poll_bot)       | 通过投票决定是否同意新成员的入群申请  |
 | Cleaning Toolbox      | [@CleaningToolboxBot](https://t.me/CleaningToolboxBot)       | 自动踢出所有群组成员  |
-【↩ [返回目录](#top)】
+ 
 
 ### 协助管理群组机器人验证
 | 名字     | 链接 | 功能描述     |
@@ -154,7 +151,7 @@
 | 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
 | LittleGuardian   | [@littleGuardianBot](https://t.me/littleGuardianBot)        |    定时广播,分析群数据机器人，让你更好的掌握你的群聊信息情况   |
 | TYPCN NLP Analysis   | [@TYPCN NLP Analysis](https://t.me/typcn_soliloquize_bot)        |    同样也是群组数据分析机器人，让你更好的掌握你群的活跃情况 |
-【↩ [返回目录](#top)】
+ 
 
 ### 欢迎
 | 名字     | 链接 | 功能描述     |
@@ -162,7 +159,7 @@
 | 欢迎机器人      | [@RealApolloBot](https://t.me/RealApolloBot)       | 欢迎机器人  |
 | 欢迎机器人      | [@WTFisBot](https://t.me/WTFisBot)       | 欢迎机器人  |
 | 欢迎机器人   | [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot)        | 欢迎机器人      |
-【↩ [返回目录](#top)】
+ 
 
 ### 广告拦截
 | 名字     | 链接 | 功能描述     |
@@ -170,26 +167,26 @@
 | 长名广告专杀      | [@adnamekillerbot](https://t.me/adnamekillerbot)       | 长名广告专杀  |
 | 限制新群员      | [@AutoRestrictBot](https://t.me/AutoRestrictBot)       | 限制新群员  |
 | 删除进出群消息   | [@AntiServiceMessageBot](https://t.me/AntiServiceMessageBot)        | I remove join/leave messages in groups and supergroups.      |
-【↩ [返回目录](#top)】
+ 
 
 ### 看门
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 看门机器人      | [@WatchDoorBot](https://t.me/WatchDoorBot)       | 可禁止发送指定类型的信息,用于避免恶意举报 |
-【↩ [返回目录](#top)】
+ 
 
 ### 昵称
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 忘记设置username提醒      | [@UNameBot](https://t.me/UNameBot)       | 在使用者忘記設定 username 時發送提醒訊息  |
 | 监控名字更改记录      | [@SangMata_BOT](https://t.me/SangMata_BOT)       | 放入群组可以监控群里用户名字更改记录  |
-【↩ [返回目录](#top)】
+ 
 
 ### 骂人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 骂人机器人      | [@the_jbot](https://t.me/the_jbot)       | 骂人机器人  |
-【↩ [返回目录](#top)】
+ 
 
 ### RSS订阅
 | 名字     | 链接 | 功能描述     |
@@ -199,13 +196,13 @@
 | rssflowbot   | [@rssflowbot](https://t.me/rssflowbot)        |flowerss是一个支持应用内阅读的RSS机器人   |
 | EventsAggregatorBot   | [@EventsAggregatorBot](https://t.me/EventsAggregatorBot)        |外国bot，在Telegram中转发您最喜欢的Twitter、Instagram、RSS、Reddit、YouTube、Twitch账户  |
 | Feed Man Bot   | [@FeedManBot](https://t.me/FeedManBot)        |可以随时更新您的所有RSS订阅源，可以全文订阅，最多订阅50个youtube频道   |
-【↩ [返回目录](#top)】
+ 
 
 ### 其他
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 拿来吧你   | [@MediaSnagBot](https://t.me/MediaSnagBot)        | 破解群组/频道媒体转发限制，频道内容破解无限制      |
-| 极光互推   | [@jiguanghtBot](https://t.me/jiguanghtBot)        | 频道互推机器人，增加频道涨粉速度      |
+| 极光互推   | [@jiguanghtBot](https://t.me/jggonggao/27)        | 频道互推机器人，增加频道涨粉速度      |
 | 极色🎬｜自动发片   | [@AutozyBot](https://t.me/AutozyBot)        | 可以通过关系词搜索涩涩资源，可以给频道定时发送资源      |
 | 创建临时邮箱机器人   | [@DropmailBot](https://t.me/DropmailBot)        | 临时邮箱顾名思义是个临时的匿名邮箱，可以用来保护个人隐私和防止垃圾邮件      |
 | Dictionary bot      | [@dicbot](https://t.me/dicbot)       | Dictionary bot that gives definitions of words.  |
@@ -229,4 +226,6 @@
 | 黑名单机器人      | [@hexlightning_bot](https://t.me/hexlightning_bot)       | 台灣人自己的黑名單機器人  |
 | APK下载机器人      | [@apkdl_bot](https://t.me/apkdl_bot)       | 下载最新版本的任何免费安卓应用和游戏  |
 | gif图片下载      | [@GIFDownloader_bot](https://t.me/GIFDownloader_bot)       | 直接发送GIF即可返回图片，保存相册即可 |
-【↩ [返回目录](#top)】
+| Background Remover Bot | [@BackGrndRemoverBot](https://t.me/BackGrndRemoverBot) | 可以为任何图片移除背景，并且完全免费，没有限制。 |
+| File Converter | [@newfileconverterbot](https://t.me/newfileconverterbot) | 文件转换器，支持将文件转换为不同格式，包括图片、音频、视频等。 |
+ 
