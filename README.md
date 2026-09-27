@@ -28,7 +28,7 @@
 | :---     |    :----:   |          :--- |
 | 飞兔云        | [飞兔云官网](https://xn--9kq10e0y7h.com/index.html?register=RHChLxSc)        | ✈付费机场  |
 | GW云洞        | [官网](https://top.gw-yd.net/#/register?code=JtMtCR8Z)                      | ✈付费机场  |
-| 搜索群1️⃣     | [@qcnso1](https://t.me/cnso1)                                            | 可以在里面搜索你想要的一切 |
+| 搜索群1️⃣     | [@cnso1](https://t.me/cnso1)                                            | 可以在里面搜索你想要的一切 |
 | 搜索群2️⃣     | [@qwzysso](https://t.me/qwzysso)                                            | 可以在里面搜索你想要的一切 |
 | 搜索群3️⃣     | [@sosocn20w](https://t.me/sosocn20w)                                        | 可以在里面搜索你想要的一切 |
 
@@ -87,7 +87,6 @@
 | :---        |    :----:   |          :--- |
 | 抽奖助手机器人      | [@tgLotteryBot](https://t.me/tgLotteryBot)       | 抽奖助手机器人  |
 | 抽奖助手机器人      | [@LotteryHelperBot](https://t.me/LotteryHelperBot)       | 抽奖助手机器人  |
-| 幸运抽奖助手   | [@Grinx_bot](https://t.me/Grinx_bot)        | 幸运抽奖助手      |
 | 抽奖机器人      | [@fengdrawbot](https://t.me/fengdrawbot)       | 抽奖机器人  |
 | Telegram 抽奖助手      | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 抽奖助手  |
 | Telegram 抽奖活动导航 | [@Lottery_home](https://t.me/Lottery_home) | 想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。 |
@@ -102,9 +101,7 @@
 | KinhRoBot      | [@KinhRoBot](https://t.me/KinhRoBot)       | 超多功能的群管机器人  |
 | 呆呆兽      | [@KeDuckBot](https://t.me/KeDuckBot)       | 呆呆兽群管机器人  |
 | 方丈机器人      | [@fangzhang_bot](https://t.me/fangzhang_bot)       | 方丈群组管理机器人  |
-| 阿福      | [@afoolrobot](https://t.me/afoolrobot)       | 阿福支持克隆，自动回复，广告过滤等  |
 | 文件与链接检测      | [@drwebbot](https://t.me/drwebbot)       | Dr.Web（大蜘蛛）公司推出了一个实验性的 Telegram Bot，它可以检查网页链接和文件，并在包含威胁时发出警告。单文件限制20M（Aquamarine）  |
-| 群组清理大师      | [@GroupCleanupMasterBot](https://t.me/GroupCleanupMasterBot)       | 群组清理大师智能清除广告  |
 | 删除含有黑名单词的发言   | [@grep_robot](https://t.me/grep_robot)        | 删除含有黑名单词的发言      |
 | 广告杀手      | [@LookOnbot](https://t.me/LookOnbot)       | 广告杀手,只需要删除消息即可协助群管理清除广告,另有众多实用功能,包括禁止关联频道置顶,封杀病毒文件等  |
 | 广告链接拦截      | [@ProtectronBot](https://t.me/ProtectronBot)       | 删除广告链接,短链接,转发,进出群消息,设置关键字黑名单,禁止刷屏,删除色情图片等,误杀比较多.  |
@@ -141,12 +138,9 @@
 | 群拦截付费进群机器人      | [@feeMasterBot](https://t.me/feeMasterBot)       | 群拦截付费进群机器人,防止水军炸群|
 | combot      | [@combot](https://t.me/combot)       | 如果你有很多组 Telegram 可以帮助您完成管理它们的任务。 除了监控群组、通知您重要通知|
 | 加群验证,杀广告   | [@tgcnjoincaptchabot](https://t.me/tgcnjoincaptchabot)        | 加群验证,杀广告      |
-| reCAPTCHA 验证码      | [@TGreCAPTCHABot](https://t.me/TGreCAPTCHABot)       | 给 Telegram 群组用的 reCAPTCHA 验证码  |
-| 加群验证码      | [@jqs7zweibot](https://t.me/jqs7zweibot)       | 加群验证码  |
 | 自定义问题加群验证      | [@policr_bot](https://t.me/policr_bot)       | 加群验证,用户可以自定义问题  |
 | 欢迎消息，消息自毁，进群验证      | [@FengDoorBot](https://t.me/FengDoorBot)       | 欢迎消息，消息自毁，进群验证  |
 | 进群验证问题   | [@orgrobot](https://t.me/orgrobot)        | 进群验证问题,群管可自定义验证问题,以后可能收费      |
-| 谷歌人机验证      | [@fuckuspambot](https://t.me/fuckuspambot)       | 过滤机器人已经支持入群的时候使用谷歌人机验证了。  |
 | 入群验证bot      | [@shieldy_bot](https://t.me/shieldy_bot)       | 入群验证bot  |
 | 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
 | LittleGuardian   | [@littleGuardianBot](https://t.me/littleGuardianBot)        |    定时广播,分析群数据机器人，让你更好的掌握你的群聊信息情况   |
@@ -208,7 +202,6 @@
 | Dictionary bot      | [@dicbot](https://t.me/dicbot)       | Dictionary bot that gives definitions of words.  |
 | Chatbot      | [@strangybot](https://t.me/strangybot)       | A chatbot that you can talk to.  |
 | Quiz bot   | [@QuizBot](https://t.me/QuizBot)        | Create and take quizzes.      |
-| Telegram client      | [@Pwrtelegram](https://t.me/Pwrtelegram)       | Telegram client with additional features.  |
 | Weather bot      | [@WeatherBot](https://t.me/WeatherBot)       | Provides weather updates.  |
 | 图片时间提醒      | [@sticker_time_bot](https://t.me/sticker_time_bot)       | 每小时发送一张图片提醒时间  |
 | 删除带链接消息   | [@AntiHyperlinkBot](https://t.me/AntiHyperlinkBot)        | removes all messages which contain links      |
@@ -217,7 +210,6 @@
 | 删除含命令消息   | [@AntiCommandBot](https://t.me/AntiCommandBot)        | removes all messages which contain a /command      |
 | URL转TG档案      | [@uploadbot](https://t.me/uploadbot)       | 神奇的普通URL網址轉TG檔案，单个文件限制500M,每天限制1GB。如果想更多空間可以買VIP  |
 | 提供工作机会      | [@jobs_bot](https://t.me/jobs_bot)       | telegram官方提供工作机会  |
-| 临时邮箱机器人      | [@sms24_me](https://t.me/sms24_me)       | 提供电话号码用于接收短信  |
 | 搜索机器人      | [@SearcheeBot](https://t.me/SearcheeBot)       | TG频道搜索机器人  |
 | bot搜索   | [@BotListBot](https://t.me/BotListBot)        | bot搜索      |
 | 查找bot,频道,群,贴纸等      | [@ExploreTelegramBot](https://t.me/ExploreTelegramBot)       | 查找bot,频道,群,贴纸等  |
