@@ -45,11 +45,11 @@
 ### 推广专区 🔥🔥🔥
 | 名字     | 链接 | 功能描述     |
 | :---     |    :----:   |          :--- |
-| 飞兔云        | [飞兔云官网](https://xn--9kq10e0y7h.com/index.html?register=RHChLxSc)        | ✈付费机场  |
-| GW云洞        | [官网](https://top.gw-yd.net/#/register?code=JtMtCR8Z)                      | ✈付费机场  |
-| 搜索群1️⃣     | [@cnso1](https://t.me/cnso1)                                            | 可以在里面搜索你想要的一切 |
-| 搜索群2️⃣     | [@qwzysso](https://t.me/qwzysso)                                            | 可以在里面搜索你想要的一切 |
-| 搜索群3️⃣     | [@sosocn20w](https://t.me/sosocn20w)                                        | 可以在里面搜索你想要的一切 |
+| 飞兔云        | [飞兔云官网](https://xn--9kq10e0y7h.com/index.html?register=RHChLxSc)    | ✈付费机场  |
+| GW云洞        | [官网](https://top.gw-yd.net/#/register?code=JtMtCR8Z)                  | ✈付费机场  |
+| 搜索群1️⃣     | [@cnso1](https://t.me/cnso1)                            | 可以在里面搜索你想要的一切 |
+| 搜索群2️⃣     | [@qwzysso](https://t.me/qwzysso)                        | 可以在里面搜索你想要的一切 |
+| 搜索群3️⃣     | [@sosocn20w](https://t.me/sososo10w)                    | 可以在里面搜索你想要的一切 |
 
 ### 电报官方
 #### 官方工具
