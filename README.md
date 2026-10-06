@@ -49,6 +49,7 @@
 | 搜索群1️⃣     | [@cnso1](https://t.me/cnso1)                            | 可以在里面搜索你想要的一切 |
 | 搜索群2️⃣     | [@qwzysso](https://t.me/qwzysso)                        | 可以在里面搜索你想要的一切 |
 | 搜索群3️⃣     | [@sosocn20w](https://t.me/sososo10w)                    | 可以在里面搜索你想要的一切 |
+| 广告专杀小助手 | [@AdKillProBot](https://t.me/AdKillProBot) | 群组广告拦截，支持关键词、黑名单及可选 AI 检测，自动删除违规消息、禁言，支持申诉 |
 
 ### 电报官方
 #### 官方工具
@@ -230,6 +231,7 @@
 | 删除含命令消息 | [@AntiCommandBot](https://t.me/AntiCommandBot) | 删除所有包含 /命令 的消息 |
 | 黑名单机器人      | [@hexlightning_bot](https://t.me/hexlightning_bot)       | 台灣人自己的黑名單機器人  |
 | NoSticker | [@nosticker_bot](https://t.me/nosticker_bot) | 自动删除群里的 Stickers |
+| 广告专杀小助手 | [@AdKillProBot](https://t.me/AdKillProBot) | 群组广告拦截，支持关键词、黑名单及可选 AI 检测，自动删除违规消息、禁言，支持申诉 |
 
 #### 群管权限
 | 名字     | 链接 | 功能描述     |
